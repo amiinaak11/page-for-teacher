@@ -1,0 +1,55 @@
+body{
+    background-color : #636363;
+}
+
+
+.main {
+    background-color:  rgb(56, 113, 236);
+    height: 700px;
+    width: 700px;
+
+    margin-top: 105px;
+    border-radius: 25px ;
+    box-shadow: 0 15px 15px rgb(0, 52, 165);
+}
+
+
+.classimg1{
+    position: absolute;
+    left: 610px;
+    padding-top: 580px;
+}
+.classimg2{
+    position: absolute;
+    left: 1155px;
+}
+.classimg3{
+    position: absolute;
+    left: 1185px;
+    padding-top: 580px;
+}
+.classimg4{
+    position: absolute;
+    bottom: 755px;
+    left:610px;
+}
+
+.h1class {
+    position: absolute;
+    left: 620px;
+    padding-top: 75px;
+    font-size: 1.8em;
+}
+.h2class {
+    position: absolute;
+    left: 850px;
+    font-size: 1.8em;
+    padding-top: 570px;
+}
+.p1class {
+    position: absolute;
+    left: 650px;
+    padding-top: 170px;
+    font-size: 1.7em;
+
+}
